@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOLib", "AOLib\AOLib.csproj", "{B9422566-7A02-4E41-B686-F27B52FE63A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOLib.Proggie", "AOLib.Proggie\AOLib.Proggie.csproj", "{1F8F4455-3AC1-4EB4-83E2-7DB2FA4B13FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9422566-7A02-4E41-B686-F27B52FE63A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9422566-7A02-4E41-B686-F27B52FE63A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9422566-7A02-4E41-B686-F27B52FE63A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9422566-7A02-4E41-B686-F27B52FE63A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F8F4455-3AC1-4EB4-83E2-7DB2FA4B13FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8F4455-3AC1-4EB4-83E2-7DB2FA4B13FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8F4455-3AC1-4EB4-83E2-7DB2FA4B13FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8F4455-3AC1-4EB4-83E2-7DB2FA4B13FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05CCC66F-7A23-4D7E-8E7F-E7A785C8DE3D}
+	EndGlobalSection
+EndGlobal
